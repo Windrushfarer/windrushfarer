@@ -9,7 +9,6 @@
  
  I am Egor Ogarkov, Software Engineer from Russia 🇷🇺, located in Germany 🇩🇪 I develop, teach and mentor people.
 
- <br>
 
  ## Something that I did 👨‍🎤
 
@@ -18,14 +17,12 @@ Most of my public work is related to education:
 - 🇷🇺 Author at [doka.guide](https://github.com/doka-guide/content), Russian guide about HTML, CSS and JavaScript. MDN but with love 💗
 - 🇷🇺 Tutor at [HTML Academy](https://htmlacademy.ru), I teach JavaScripts basics and more
 
-<br>
 
 ## Some links
 
 - 📫 [Twitter](https://twitter.com/windrushfarer)
 - 💼 [LinkedIn](https://www.linkedin.com/in/windrushfarer/)
 
-<br>
 
 ## Some fancy badges 🔖
 
